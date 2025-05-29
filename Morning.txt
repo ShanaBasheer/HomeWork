@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HAI...GOOG MORNING  
+=======
+HAI...GOOddd MORNING all.....how r youggit git 
+>>>>>>> Days
